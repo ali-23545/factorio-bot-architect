@@ -52,6 +52,16 @@ export default {
 					DEFAULT: 'hsl(var(--card))',
 					foreground: 'hsl(var(--card-foreground))'
 				},
+				factorio: {
+					"dark": "#1e293b",
+					"darker": "#0f172a",
+					"light": "#f97316",
+					"accent": "#f59e0b",
+					"circuit": "#22c55e",
+					"red": "#ef4444",
+					"blue": "#3b82f6",
+					"yellow": "#eab308"
+				},
 				sidebar: {
 					DEFAULT: 'hsl(var(--sidebar-background))',
 					foreground: 'hsl(var(--sidebar-foreground))',
